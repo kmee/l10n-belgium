@@ -24,6 +24,8 @@
     "external_dependencies": {
         "python": [
             "zeep",
+            "freezegun",
+            "vcrpy-unittest",
         ],
     },
     # Wait for meb-notify to be migrated in 15
