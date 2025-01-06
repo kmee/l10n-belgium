@@ -1,2 +1,3 @@
 freezegun
 vcrpy-unittest
+lxml<5.2
